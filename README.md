@@ -11,7 +11,7 @@ I am a constant learner that wants to improve himself in Cybersecurity field, wi
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated project]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
