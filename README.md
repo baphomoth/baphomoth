@@ -1,12 +1,12 @@
 # Hello, I'm Christian
 <a href="[https://linkedin.com](https://www.linkedin.com/in/cristian-dorin-teacoe/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
 I am a constant learner that wants to improve himself in Cybersecurity field, with a profound interest in technology and a dedication.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
