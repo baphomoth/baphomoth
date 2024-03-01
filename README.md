@@ -8,8 +8,8 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|                 |                                       |                 |                 |
+| Building a SIEM | Log management, Security Archtecture  | DigitalOcean, Wazuh|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+|       Building a SIEM          |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
 
@@ -18,4 +18,4 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| IBM ITF for Everyone     |                February 2024                |     <a href="https://google.com]https://github.com/iMentorYT/SIEM/tree/main](https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC)https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC">Proof</a>        | 
+| IBM ITF for Everyone     |                February 2024                |     <a href="https://google.com]https://github.com/iMentorYT/SIEM/tree/main](https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC)https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC">Click!</a>        | 
