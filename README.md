@@ -16,8 +16,9 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | IBM ITF for Everyone     |                February 2024                |     <a href="https://google.com]https://github.com/iMentorYT/SIEM/tree/main](https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC)https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC">Click!</a>        | 
+| Google System Administration and IT Infrastructure Services     |                Still learning                |             | 
+| Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
