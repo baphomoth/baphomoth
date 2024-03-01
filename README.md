@@ -10,7 +10,7 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |       Building a Home Network          |                                       |     Cisco Packet Tracer            |                 |
 | Building a SIEM | Log management, Security Archtecture  | DigitalOcean for VPS, Wazuh|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|       SIEM Automation          |                                       |     DigitalOcean for VPS, TheHive            |                 |
+|       SIEM Automation          |                                       |     DigitalOcean for VPS, Ansible            |                 |
 |                 |                                       |                 |                 |
 
 
