@@ -9,8 +9,8 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |       Building a Home Network          |                                       |     Cisco Packet Tracer            |                 |
-| Building a SIEM | Log management, Security Archtecture  | DigitalOcean, Wazuh|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|       SIEM Automation          |                                       |     TheHive            |                 |
+| Building a SIEM | Log management, Security Archtecture  | DigitalOcean for VPS, Wazuh|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+|       SIEM Automation          |                                       |     DigitalOcean for VPS, TheHive            |                 |
 |                 |                                       |                 |                 |
 
 
