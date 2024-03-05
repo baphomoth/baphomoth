@@ -23,3 +23,13 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 | IBM ITF for Everyone     |                February 2024                |     <a href="https://google.com]https://github.com/iMentorYT/SIEM/tree/main](https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC)https://www.coursera.org/account/accomplishments/verify/JUCMZXK7ALQC">Click!</a>        | 
 | Google System Administration and IT Infrastructure Services     |                Still learning                |             | 
 | Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
+
+# Some videos i learned from 
+
+|     Title     |               Content creator               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| Complete Linux Administration Bootcamp     |                linuxhint                |     <a href="https://youtu.be/mxI2gOhVtbw?si=FJwG-m8xz_G83nQM">Click!</a>        | 
+| Python Tutorial - Python Full Course for Beginners     |                
+Programming with Mosh
+                |             | 
+| Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
