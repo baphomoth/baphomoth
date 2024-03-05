@@ -31,5 +31,5 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 | Complete Linux Administration Bootcamp     |                linuxhint                |     <a href="https://youtu.be/mxI2gOhVtbw?si=FJwG-m8xz_G83nQM">Click!</a>        | 
 | Python Tutorial - Python Full Course for Beginners     |                
 Programming with Mosh
-                |             | 
-| Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
+                |     <a href="https://youtu.be/_uQrJ0TkZlc?si=JBR1sQiD-ohXc7CT">Click!</a>        | 
+
