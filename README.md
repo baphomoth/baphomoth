@@ -28,8 +28,6 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 
 |     Title     |               Content creator               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| Complete Linux Administration Bootcamp     |                linuxhint                |     <a href="https://youtu.be/mxI2gOhVtbw?si=FJwG-m8xz_G83nQM">Click!</a>        | 
-| Python Tutorial - Python Full Course for Beginners     |                
-Programming with Mosh
-                |     <a href="https://youtu.be/_uQrJ0TkZlc?si=JBR1sQiD-ohXc7CT">Click!</a>        | 
+| Complete Linux Administration Bootcamp     |                linuxhint                |     <a href="https://youtu.be/mxI2gOhVtbw?si=FJwG-m8xz_G83nQM">Click!</a>        |
+
 
