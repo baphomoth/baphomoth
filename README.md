@@ -11,7 +11,8 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 |       Building a Home Network          |                                       |     Cisco Packet Tracer            |       <a href="https://github.com/baphox/Bulding-a-Home-Network">Home Network</a>          |
 | Building a Home Lab | Log management, Security Archtecture  | VMWare Player, Windows 10|  <a href="https://github.com/baphox/Building-a-Home-Lab">Home Lab</a>   |
 | Building a SIEM | Log management, Security Archtecture  | DigitalOcean for VPS, Wazuh|  <a href="https://github.com/baphox/Building-a-SIEM">SIEM</a>   |
-|       SIEM Automation          |                                       |     DigitalOcean for VPS, TheHive             |                 |
+|       SIEM Automation for Incident Response         |                                       |     DigitalOcean for VPS, TheHive             |       <a href="https://github.com/baphox/SIEM-Automation-TheHive/tree/main">Automation</a>          |
+|       SIEM Automation for Deploying Agents         |                                       |     DigitalOcean for VPS, Ansible             |       <a href="https://github.com/baphox/SIEM-Automation-TheHive/tree/main">Automation</a>          |
 |       Building a VPN          |                                       |     DigitalOcean for VPS, OpenVPN             |                 |
 |       Building a Private Cloud Storage        |                                       |     DigitalOcean for VPS, MiniO             |                 |
 |    Windows Update Automation             |                                       |     Python            |                 |
