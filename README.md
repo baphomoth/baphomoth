@@ -8,7 +8,7 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|       Building a Home Network          |                                       |     Cisco Packet Tracer            |                 |
+|       Building a Home Network          |                                       |     Cisco Packet Tracer            |       <a href="https://github.com/baphox/Bulding-a-Home-Network">Home Network</a>          |
 | Building a Home Lab | Log management, Security Archtecture  | VMWare Player, Windows 10|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | Building a SIEM | Log management, Security Archtecture  | DigitalOcean for VPS, Wazuh|  <a href="https://github.com/baphox/Building-a-SIEM">SIEM</a>   |
 |       SIEM Automation          |                                       |     DigitalOcean for VPS, Ansible            |                 |
