@@ -27,6 +27,14 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 | Google System Administration and IT Infrastructure Services     |                March 2024                |    <a href="https://coursera.org/verify/4J6GB648LHJF">Click!</a>         | 
 | Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
 
+# Conferences i attended or i will attend
+|     Conference     |               Position               |     Dates       |
+| --------------------  | -------------------------------------- | ---------------| 
+| BSides Transylvania 2024     |                Participant                |     23 March 2024        | 
+| DefCamp 2024     |                Participant                |    16-17 May 2024         | 
+| Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
+
+
 # Some videos i learned from 
 
 |     Title     |               Content creator               |     Link       |
