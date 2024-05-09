@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hey there, I'm absolutely passionate about all things IT and cybersecurity! There's something about the world of technology that really gets me excited. From troubleshooting pesky technical issues to exploring the latest cybersecurity trends, I find it all incredibly fascinating.
 
 
 
