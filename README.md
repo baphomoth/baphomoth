@@ -18,13 +18,6 @@ Hi, I'm Christian and this is my Cyber Security Portfolio. I am currently seekin
 | --------------------  | -------------------------------------- | ---------------| 
 | BSides Transylvania 2024     |                Participant                |     23 March 2024        | 
 | DefCamp 2024     |                Participant                |    16-17 May 2024         | 
-| Google Google Cybersecurity Professional Certificate     |                Still learning                |             | 
 
-
-# Some videos i learned from 
-
-|     Title     |               Content creator               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| Complete Linux Administration Bootcamp     |                linuxhint                |     <a href="https://youtu.be/mxI2gOhVtbw?si=FJwG-m8xz_G83nQM">Click!</a>        |
 
 
