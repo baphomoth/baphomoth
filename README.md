@@ -31,7 +31,7 @@ I am actively engaged in the cybersecurity community, where I moderate the Hacko
 |     Conference     |               Position               |     Dates       |
 | --------------------  | -------------------------------------- | ---------------| 
 | BSides Transylvania 2024     |                Participant                |     23 March 2024        | 
-| DefCamp 2024     |                Participant                |    28-29 November 2024         | 
+| DefCamp Bucharest 2024     |                Participant                |    28-29 November 2024         | 
 
 
 
