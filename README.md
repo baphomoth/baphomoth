@@ -16,9 +16,9 @@ I am actively engaged in the cybersecurity community, where I moderate the Hacko
 | Linux Administration Lab | <a href="https://baphomoth.wordpress.com/2024/08/20/linux-administration-lab/">CLICK ME!</a>|
 | Cisco Packet Tracer- Simple Computer Network         | <a href="https://baphomoth.wordpress.com/2024/08/20/cisco-packet-tracer-simple-computer-network/">CLICK ME!</a>|
 | Cisco Packet Tracer- DHCP Server      | <a href="https://baphomoth.wordpress.com/2024/08/20/cisco-packet-tracer-simple-computer-network/">CLICK ME!</a>|
-| Python Projects                  | SOC Automation Lab|
-| Bash Projects | SOC Automation Lab|
-| Powershell Projects                  | SOC Automation Lab|
+| Python Projects                  | Python Projects|
+| Bash Projects | Bash Projects|
+| Powershell Projects                  | Powershell Projects|
 
 # Certifications 
 
