@@ -1,4 +1,4 @@
-## Christian's Porfolio
+## Welcome, i'm BAPHOMOTH
 
 # About me
 
