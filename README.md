@@ -2,7 +2,11 @@
 
 # About me
 
-As a dedicated cybersecurity student and active CTF participant, I have hands-on experience in system administration, network creation, and developing security tools using Python, Bash, and Powershell. With a strong focus on ethical hacking, I hold certifications like ISC2's CC and TCM Security's Practical Junior Penetration Tester. I actively contribute to cybersecurity NGOs, like Hackout and participating in bug bounty programs. I am passionate about continuous learning through industry conferences like BSides and DefCamp.
+I am a dedicated Cybersecurity student with a strong passion for protecting systems and networks. Since March 2024, I have been self-employed, allowing me to deepen my skills in various aspects of cybersecurity through hands-on projects and community involvement. I proudly achieved a Top 10% ranking on TryHackMe and actively participate in Capture The Flag competitions on HackTheBox. My practical experience includes working extensively with both Windows and Linux systems, where I gained valuable knowledge in System Administration.
+
+In addition to this, I built a simple network and a DNS server using Cisco Packet Tracer, and developed several cybersecurity projects using Python, Bash, and PowerShell. Some of these projects include a DDoS tool, a keylogger, a port scanner, an IP sweep tool, and scripts for firewall bypass and persistence mechanisms. I have earned certifications such as ISC2 Certified in Cybersecurity (CC) and TCM Security’s Practical Junior Penetration Tester, which further validate my skills and knowledge in the field.
+
+I am actively engaged in the cybersecurity community, where I moderate the Hackout Discord server and contribute by proposing activities and creating presentations for a non-profit organization. I also regularly attend industry conferences like BSides and DefCamp, which provide excellent opportunities for networking and skill-building. Additionally, I participate in bug bounty programs to identify and report vulnerabilities on various platforms. My ultimate goal is to continue evolving in the cybersecurity domain, combining my technical expertise with a strong commitment to enhancing the security of systems and networks.
 
 # Projects 
 
