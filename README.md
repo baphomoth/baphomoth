@@ -10,7 +10,7 @@ As a dedicated cybersecurity student and active CTF participant, I have hands-on
 |-----------------------------------------------|----------------------------|
 | Entry Helpdesk Lab          | <a href="https://baphomoth.wordpress.com/2024/08/19/entry-level-helpdesk-lab/">CLICK ME!</a>|
 | Linux Administration Lab | <a href="https://baphomoth.wordpress.com/2024/08/20/linux-administration-lab/">CLICK ME!</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Cisco Packet Tracer Simple Computer Network         | <a href="https://baphomoth.wordpress.com/2024/08/20/cisco-packet-tracer-simple-computer-network/">CLICK ME!</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
