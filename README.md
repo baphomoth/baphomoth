@@ -18,7 +18,7 @@ I am actively engaged in the cybersecurity community, where I moderate the Hacko
 | Cisco Packet Tracer- DHCP Server      | <a href="https://baphomoth.wordpress.com/2024/08/20/cisco-packet-tracer-simple-computer-network/">CLICK ME!</a>|
 | Port Scanner in Python                  | <a href="https://github.com/baphomoth/PortScanner">CLICK ME!</a>|
 | IP Sweep Tool in Bash                  | <a href="https://github.com/baphomoth/IPSweep-Tool">CLICK ME!</a>|
-| Firewall Bypass & Persistence Script in Powershell | <a href="https://github.com/baphomoth/Firewall-Bypass-Persistence-Script">CLICK ME!</a>|
+| Bloatware Remover in Powershell | <a href="https://github.com/baphomoth/Firewall-Bypass-Persistence-Script">CLICK ME!</a>|
 
 # Certifications 
 
